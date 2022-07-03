@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Snotat of snotat.com
-- 👀 I’m interested in building websites/apps for clients
+- 👀 I’m interested in building websites/apps.
 - 🌱 I’m a full stack MERN developer 
 - 💞️ Contact me at admin@snotat.com or snotatonline@gmail.com for a frontend or backend.
 - 📫 Thanks
